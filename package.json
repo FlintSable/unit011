@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "websrv",
   "version": "1.0.0",
   "description": "node",
   "main": "websvr.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/FlintSable/unit011.git"
   },
-  "author": "",
+  "author": "Nicholas Noochla-or",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FlintSable/unit011/issues"
